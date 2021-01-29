@@ -1,0 +1,49 @@
+@import './reset.css';
+
+.card-Jamson {
+  
+  
+  max-width: 260px;
+  margin: 40px;
+  text-align: center;
+  border:1px black solid
+}
+
+.title {
+  color: rgb(0, 0, 255);
+  font-size: 18px;
+  padding: 2px;
+}
+
+
+.univ{
+  color: red;
+  font-size: 19px;
+  padding: 3px;
+}
+
+h1 { 
+   
+  padding: 10px;
+  color: rgb(0, 0, 255);
+  font-size: 24px;
+  
+}
+
+
+.ssilka{
+  
+  display: flex;
+  margin: 30px;
+  justify-content: space-around;
+  
+}
+
+.image-two:hover {fill: red; background-color: black;}
+.image-two{
+
+  border: 1px solid #959797;
+  border-radius: 3px;
+  fill: gray;
+  
+}
